@@ -1,3 +1,3 @@
 # Examen Final Base de Datos Relacionales
-Nicole Patricia Góngjora Rodríguez
+Nicole Patricia Góngora Rodríguez
 51225
