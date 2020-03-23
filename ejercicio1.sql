@@ -1,0 +1,1 @@
+select distinct clients.name from clients inner join orders on clients.username=orders.clientusername and orders.status= 'Done'
